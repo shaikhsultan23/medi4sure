@@ -1,0 +1,15 @@
+.Header{
+           margin: 10px;
+           padding: 10px;
+           background-color:darksalmon;
+           border:tomato 2px solid;
+           color: yellow;
+           font-weight: bold;
+           border-top-right-radius: 50px;
+           
+}
+.spandata{
+    padding: 10px;
+    
+
+}
